@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("filbehandling-JSONSerializer-oppgave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1568b7ac3acfef316512cf226cdfba3527b78b17")]
 [assembly: System.Reflection.AssemblyProductAttribute("filbehandling-JSONSerializer-oppgave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("filbehandling-JSONSerializer-oppgave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
