@@ -1,0 +1,14 @@
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.AssemblyInfoInputs.cache
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.AssemblyInfo.cs
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.csproj.CoreCompileInputs.cache
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\bin\Debug\net8.0\filbehandling-JSONSerializer-oppgave.exe
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\bin\Debug\net8.0\filbehandling-JSONSerializer-oppgave.deps.json
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\bin\Debug\net8.0\filbehandling-JSONSerializer-oppgave.runtimeconfig.json
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\bin\Debug\net8.0\filbehandling-JSONSerializer-oppgave.dll
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\bin\Debug\net8.0\filbehandling-JSONSerializer-oppgave.pdb
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.dll
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\refint\filbehandling-JSONSerializer-oppgave.dll
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.pdb
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\filbehandling-JSONSerializer-oppgave.genruntimeconfig.cache
+C:\Users\maria\skrivebord\Backend\filbehandling-JSONSerializer-oppgave\obj\Debug\net8.0\ref\filbehandling-JSONSerializer-oppgave.dll

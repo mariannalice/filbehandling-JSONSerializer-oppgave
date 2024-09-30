@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "filbehandling-JSONSerializer-oppgave/1.0.0": {
+        "runtime": {
+          "filbehandling-JSONSerializer-oppgave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "filbehandling-JSONSerializer-oppgave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
